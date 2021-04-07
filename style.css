@@ -1,0 +1,23 @@
+.cocktail-imgs {
+    height: 300px;
+    width: 300px;
+}
+
+.modal-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+
+
+.modal-container .card {
+    margin: 30vh auto auto auto;
+    width: fit-content;
+}
+
+.hide {
+    display: none;
+}
